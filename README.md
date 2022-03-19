@@ -5,7 +5,7 @@
 
 ### Abstract: A tool to make ecological restoration through adaptive management more efficient. Users will encounter features to facilitate every step of the restoration process, from planting and monitoring, to evaluating the progress toward restoration targets.
 
-### The Story Behind RestR
+### The Story Behind RestoR
 RestoR was born from the need to make the process of restoring degraded ecosystems of the Galapagos Islands more efficient. It all started when members of the Galapagos Verde 2050 (GV2050) restoration project at the Charles Darwin Foundation began using a Shiny app to create accurate summary figures of their monitoring data to share with stakeholders. As time went by, the team discovered new valuable features that could be integrated into the app to reduce the time spent on tasks such as analyzing monitoring data and planning for field trips. With the help from the app, the GV2050 team has been able to spend more time in the field doing what matters most, restoring the unique ecosystems of the Galapagos. Today, the GV2050 team uses a version of RestoR to manage 90+ restoration sites with over 12,000 plants.
 
 ### How to use RestR?
